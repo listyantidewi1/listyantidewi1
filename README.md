@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Game and Web Development
-- 📫 How to reach me: email: listyantidewi@gmail.com or IG: @listyantidewi
+- 📫 How to reach me: email: listyantidewi@gmail.com
 
 <!---
 listyantidewi1/listyantidewi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
